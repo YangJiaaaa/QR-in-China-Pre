@@ -19,6 +19,11 @@ Zou Peng 25198002 :boy:
 
 ## Thanks to the squired barcode 
 ![](JPQRcode.png)
+
+##### Barcode
+
+
+·
 ## Why is mobile payment hot only in China? 
 
 ## Some ideas about use of public resources
