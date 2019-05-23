@@ -6,6 +6,9 @@ Zou Peng 25198002 :boy:
 ## Application :satellite:
 
 ### Mobile Payment :yen:
+![](mhack_pre\1_mobile_pay\commondity_pur\qr-code-1.jpg)
+
+
 ------
 
 ### Utilization of Public Resources :bike:
