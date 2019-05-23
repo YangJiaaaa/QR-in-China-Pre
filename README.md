@@ -28,7 +28,7 @@ Zou Peng 25198002 :boy:
 #### QR code
 1. large capacity of information(support all types of words)
 2. small space
-3. Strong adaptability to getting dirty and damaged
+3. strong adaptability to getting dirty and damaged
 
 ## Why is mobile payment hot only in China? 
 
