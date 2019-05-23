@@ -22,18 +22,14 @@ Zou Peng 25198002 :boy:
 ![](BarQR.jpg)
 
 #### Barcode
-· limited capacity of information
-· weak fault-tolerant system
+1. limited capacity of information
+2. weak fault-tolerant system
 
 #### QR code
-· large capacity of information(support all types of words)
-· small space
-· Strong adaptability to getting dirty and damaged
+1. large capacity of information(support all types of words)
+2. small space
+3. Strong adaptability to getting dirty and damaged
 
-
-
-
-·
 ## Why is mobile payment hot only in China? 
 
 ## Some ideas about use of public resources
