@@ -17,6 +17,11 @@ Zou Peng 25198002 :boy:
 ### Detailed Information Acquiring :computer:
 -----
 
+## Thanks to the squired barcode 
+
 ## Why is mobile payment hot only in China? 
 
 ## Some ideas about use of public resources
+
+
+## Future
