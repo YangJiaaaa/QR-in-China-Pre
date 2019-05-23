@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+# How Doese QR Cord Conquer China?  :cn:
 
-You can use the [editor on GitHub](https://github.com/YangJiaaaa/QR-in-China-Pre/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Yang Jia 25188201    
+Zou Peng 25198002
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Application
+
+
 
 ### Markdown
 
