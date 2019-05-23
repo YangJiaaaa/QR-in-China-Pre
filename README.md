@@ -1,7 +1,7 @@
 # How Doese QR Cord Conquer China?  :cn:
 
-Yang Jia 25188201    
-Zou Peng 25198002
+Yang  Jia 25188201   :girl:   
+Zou Peng 25198002 :boy:
 
 ## Application :satellite:
 
@@ -14,8 +14,9 @@ Zou Peng 25198002
 ### Origin Tracking :cow2:
 -----
 
-### Detailed Information Acquiring
+### Detailed Information Acquiring :computer:
 -----
 
 ## Why is mobile payment hot only in China? 
 
+## Some ideas about use of public resources
