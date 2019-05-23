@@ -21,7 +21,16 @@ Zou Peng 25198002 :boy:
 ![](JPQRcode.png)
 ![](BarQR.jpg)
 
-##### Barcode
+#### Barcode
+· limited capacity of information
+· weak fault-tolerant system
+
+#### QR code
+· large capacity of information(support all types of words)
+· small space
+· Strong adaptability to getting dirty and damaged
+
+
 
 
 ·
