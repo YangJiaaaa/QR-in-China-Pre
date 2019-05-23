@@ -19,6 +19,7 @@ Zou Peng 25198002 :boy:
 
 ## Thanks to the squired barcode 
 ![](JPQRcode.png)
+![](BarQR.jpg)
 
 ##### Barcode
 
