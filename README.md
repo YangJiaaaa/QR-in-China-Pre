@@ -1,4 +1,4 @@
-# How Doese QR Cord Conquer China?  :cn:
+# How Does QR Cord Conquer China?  :cn:
 
 Yang  Jia 25188201   :girl:   
 Zou Peng 25198002 :boy:
