@@ -36,7 +36,7 @@ Zou Peng 25198002 :boy:
 
 ## Why is mobile payment hot only in China? 
 
-## Some ideas about use of public resources
+## Something about Sharing Bikes ...Some ideas about use of public resources
 
 
 ## Future
