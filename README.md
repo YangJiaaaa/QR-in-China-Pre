@@ -16,11 +16,11 @@ Customers can pay with Alipay or WeChat Pay at a stand in Beijing.
 
 It takes only a few seconds to process a transaction.
 
-<img src="mhack_pre/1_mobile_pay/pocket_mon/qr-1-4.jpg" width="50%" height="50%">
+<img src="mhack_pre/1_mobile_pay/pocket_mon/qr-1-4.png" width="50%" height="50%">
 
 Give and collect gifts at a wedding
 
-<img src="mhack_pre/1_mobile_pay/pocket_mon/qr-1-2.jpg" width="50%" height="50%">
+<img src="mhack_pre/1_mobile_pay/pocket_mon/qr-1-2.png" width="50%" height="50%">
 
 Panhandlers receive donation from mobile payment QR codes 
 
