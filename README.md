@@ -28,7 +28,7 @@ Panhandlers receive donation from mobile payment QR codes
 
 ### Utilization of Public Resources :bike:
 
-<img src="mhack_pre/2_utilize_pub_resr/pocket_mon/2.png" width="50%" height="50%">
+<img src="mhack_pre/2_utilize_pub_resr/2.png" width="50%" height="50%">
 
 unlocks a bike of Chinese bike-sharing company Mobike by scanning the QR Code
 
