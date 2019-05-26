@@ -37,6 +37,8 @@ Zou Peng 25198002 :boy:
 ## Why is mobile payment hot only in China? 
 
 ## Something about Sharing Bikes ...Some ideas about use of public resources
+<img src="Bike-sharing.jpg" width="50%" height="50%">
+<img src="bike_sharing2.jpg" width="50%" height="50%">
 
 #### Reason:
 1.  dense urban areas & heavy ridership to stay profitable
