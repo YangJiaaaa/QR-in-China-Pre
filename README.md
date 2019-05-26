@@ -30,11 +30,24 @@ Panhandlers receive donation from mobile payment QR codes
 
 <img src="mhack_pre/2_utilize_pub_resr/2.png" width="50%" height="50%">
 
-unlocks a bike of Chinese bike-sharing company Mobike by scanning the QR Code
+Unlocks a bike of Chinese bike-sharing company Mobike by scanning the QR Code
 
 -----
 
 ### Origin Tracking :cow2:
+
+<img src="mhack_pre/3_info_tracking/1.png" width="50%" height="50%">
+
+Identify pets
+
+<img src="mhack_pre/3_info_tracking/2.png" width="50%" height="50%">
+
+Identify senior citizens & Find losing elders
+
+<img src="mhack_pre/3_info_tracking/3.jpg" width="50%" height="50%">
+
+Track food from source to fork
+
 -----
 
 ### Detailed Information Acquiring :computer:
