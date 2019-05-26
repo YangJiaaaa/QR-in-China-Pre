@@ -9,8 +9,12 @@ Zou Peng 25198002 :boy:
 
 <img src="mhack_pre/1_mobile_pay/commondity_pur/qr-code-1.jpg" width="50%" height="50%">
 
-Customers can pay with Alipay or WeChat Pay at a news stand in Beijing.
+Customers can pay with Alipay or WeChat Pay at a stand in Beijing.
 
+
+<img src="mhack_pre/1_mobile_pay/commondity_pur/qr-code-3-1.jpg" width="50%" height="50%">
+
+It takes only a few seconds to process a transaction.
 
 ------
 
