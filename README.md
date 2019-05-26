@@ -1,9 +1,11 @@
 # How Does QR Cord Conquer China?  :cn:
 
-Yang  Jia   25188201   :girl:   
-Zou Peng   25198002 :boy:
+Yang  Jia    :girl:   
+Zou Peng     :boy:
 
 ## Application :satellite:
+
+<https://www.youtube.com/watch?v=gysKE3POUv0>
 
 ### Mobile Payment :yen:
 
