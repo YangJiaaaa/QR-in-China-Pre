@@ -124,3 +124,5 @@ Saving cards:
 ## Future
 
 <img src="facialrecognization.jpg" width="50%" height="50%">
+
+The founder Jack Ma was showing how to use Facial Recognization to pay in Alipay
