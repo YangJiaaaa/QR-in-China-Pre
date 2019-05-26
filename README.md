@@ -96,6 +96,8 @@ characteristics of Mobile Payment Platform in China:
 Saving cards:
 1. No treshold, open accouts freely
 2. Get card instantly
+<img src="Unionpay.png" width="50%" height="50%">
+
 
 ## Sharing Bikes _ A new utilizaiton mode of public resources 
 <img src="Bike-sharing.jpg" width="50%" height="50%">
