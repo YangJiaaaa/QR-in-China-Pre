@@ -83,7 +83,19 @@ QR code as identity badge
 2. small space
 3. strong adaptability to getting dirty and damaged
 
-## Mobile Payment _ A product of China's economic system 
+## Mobile Payment _ A success of Third-party payment
+
+The banking system of China undertakes two basic business
+1. identity authentication 
+2. transfer settlement.
+
+characteristics of Mobile Payment Platform in China: 
+1. Savings card is the mainstream
+2. Instant transfer.
+
+Saving cards:
+1. No treshold, open accouts freely
+2. Get card instantly
 
 ## Sharing Bikes _ A new utilizaiton mode of public resources 
 <img src="Bike-sharing.jpg" width="50%" height="50%">
