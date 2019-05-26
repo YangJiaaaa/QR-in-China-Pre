@@ -85,7 +85,7 @@ QR code as identity badge
 
 ## Why is mobile payment hot only in China? 
 
-## Something about Sharing Bikes ...Some ideas about use of public resources
+## Sharing Bikes _ A new utilizaiton mode of public resources 
 <img src="Bike-sharing.jpg" width="50%" height="50%">
 <img src="bike_sharing2.jpg" width="50%" height="50%">
 
