@@ -83,7 +83,7 @@ QR code as identity badge
 2. small space
 3. strong adaptability to getting dirty and damaged
 
-## Why is mobile payment hot only in China? 
+## Mobile Payment _ A product of China's economic system 
 
 ## Sharing Bikes _ A new utilizaiton mode of public resources 
 <img src="Bike-sharing.jpg" width="50%" height="50%">
