@@ -38,16 +38,16 @@ Zou Peng 25198002 :boy:
 
 ## Something about Sharing Bikes ...Some ideas about use of public resources
 
-Reason:
+#### Reason:
 1.  dense urban areas & heavy ridership to stay profitable
 2.  huge workforce to spread the bikes to the most needed areas.
 
 
-Accessibility and convenience requires two things:
+#### Accessibility and convenience requires two things:
 1. huge fleet of bikes
 2. huge workforce to spread the bikes to the most needed areas.
 
-China:
+#### China:
 1. massive urban population
 2. large, cheap labor force
 3. support from gov
