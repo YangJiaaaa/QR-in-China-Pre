@@ -51,6 +51,23 @@ Track food from source to fork
 -----
 
 ### Detailed Information Acquiring :computer:
+
+<img src="mhack_pre/4_acquire_detail/1.png" width="50%" height="50%">
+
+Post and reply to job boards
+
+<img src="mhack_pre/4_acquire_detail/2.png" width="50%" height="50%">
+
+Check authenticity and gain more information about food and drinks
+
+<img src="mhack_pre/4_acquire_detail/4.png" width="50%" height="50%">
+
+"Scan code to win prizes" promotion
+
+<img src="mhack_pre/4_acquire_detail/5.png" width="50%" height="50%">
+
+QR code as identity badge
+
 -----
 
 ## Thanks to the squired barcode 
