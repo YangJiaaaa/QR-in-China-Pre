@@ -1,4 +1,4 @@
-# How Does QR Cord Conquer China?  :cn:
+# How Does QR Code Conquer China?  :cn:
 
 Yang  Jia    :girl:   
 Zou Peng     :boy:
@@ -60,7 +60,7 @@ Post and reply to job boards
 
 <img src="mhack_pre/4_acquire_detail/2.png" width="50%" height="50%">
 
-Check authenticity and gain more information about food and drinks
+Check authenticity and gain more information about foods and drinks
 
 <img src="mhack_pre/4_acquire_detail/4.png" width="50%" height="50%">
 
@@ -68,11 +68,12 @@ Check authenticity and gain more information about food and drinks
 
 <img src="mhack_pre/4_acquire_detail/5.png" width="50%" height="50%">
 
-QR code as identity badge
+QR code works as identity badge
 
 -----
+-----
 
-## Thanks to the squired barcode 
+## Thanks to the sqaured barcode 
 ![](JPQRcode.png)
 ![](BarQR.jpg)
 
@@ -85,7 +86,10 @@ QR code as identity badge
 2. small space
 3. strong adaptability to getting dirty and damaged
 
-## Mobile Payment _ A success of Third-party payment
+-----
+-----
+
+## Mobile Payment _ A Success of Third-party Payment
 
 The banking system of China undertakes two basic business
 1. identity authentication 
@@ -100,8 +104,10 @@ Saving cards:
 2. Get card instantly
 <img src="Unionpay.png" width="50%" height="50%">
 
+-----
+-----
 
-## Sharing Bikes _ A new utilizaiton mode of public resources 
+## Sharing Bikes _ A New Utilizaiton Mode of Public Resources 
 <img src="Bike-sharing.jpg" width="50%" height="50%">
 <img src="bike_sharing2.jpg" width="50%" height="50%">
 
@@ -119,6 +125,8 @@ Saving cards:
 2. large, cheap labor force
 3. support from gov
 
+-----
+-----
 
 
 ## Future
