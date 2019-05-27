@@ -1,6 +1,6 @@
 # How Does QR Code Conquer China?  :cn:
 
-Yang Jia    :girl:   
+Yang Jia     :girl:   
 Zou Peng     :boy:
 
 ## Application :satellite:
@@ -104,6 +104,10 @@ Saving cards:
 2. Get card instantly
 <img src="Unionpay.png" width="50%" height="50%">
 
+Add more details....
+Speaking of Union Pay, I believe that nearly everyone here can find this sign in your country...
+Nearly each small corner...
+
 -----
 -----
 
@@ -134,3 +138,4 @@ Saving cards:
 <img src="facialrecognization.jpg" width="50%" height="50%">
 
 The founder of Alibaba, Jack Ma was showing how to use Facial Recognization to pay by Alipay.
+China is on the way...
