@@ -1,6 +1,6 @@
 # How Does QR Code Conquer China?  :cn:
 
-Yang  Jia    :girl:   
+Yang Jia    :girl:   
 Zou Peng     :boy:
 
 ## Application :satellite:
