@@ -132,14 +132,14 @@ Saving cards:
 
 
 
-#### [1]Essibility and convenience requires two things:
+#### [1] Essibility and convenience requires two things:
 - a huge fleet of bikes
 - a huge workforce to spread the bikes to the most needed areas
 
 
 
 
-#### [2]Profitable for their companies:
+#### [2] Profitable for their companies:
 - dense urban areas & heavy ridership to stay profitavle
 
 - huge workforce to spread the bikes to the most needed areas
@@ -147,18 +147,18 @@ Saving cards:
 
 
 
-#### [3]Relatively lax regulation
+#### [3] Relatively lax regulation
 
 
 
 
-#### [4]Support from the government
+#### [4] Support from the government
 
 
 
 
 #### To conclude:
-China:
+-----
 - massive urban population
 - a large, cheap labor force
 - relatively lax regulation on bike parking 
