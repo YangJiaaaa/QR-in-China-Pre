@@ -92,18 +92,22 @@ QR code works as identity badge
 
 ## Mobile Payment _ A Success of Third-party Payment
 
-The banking system of China undertakes two basic business
-1. identity authentication 
-2. transfer settlement.
+1. Thrid-party Platform
+   Alipay
+   Credit problem
+
 
 characteristics of Mobile Payment Platform in China: 
 1. Savings card is the mainstream
-2. Instant transfer.
+2. Banking system
 
 Saving cards:
 1. No threshold, open accouts freely
 2. Get card instantly
-<img src="Unionpay.png" width="50%" height="50%">
+
+Banking system:
+1. Country-owned main banks
+2. Money can flow freely without extra fee
 
 
 -----
