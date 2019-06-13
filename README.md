@@ -117,6 +117,7 @@ Saving cards:
 ### 1.why is sharing bikes so popular in China?
 <img src="picture2.png" width="50%" height="50%">
 
+
 - dockless, it can be parked anywhere. 
 || fixed docking stations, only park in specific location very inconvenient
 - bike location is showed in the app, actually, not necessary
@@ -141,6 +142,7 @@ Saving cards:
 
 
 #### [2] Profitable for their companies:
+
 - dense urban areas & heavy ridership to stay profitavle
 
 - huge workforce to spread the bikes to the most needed areas
