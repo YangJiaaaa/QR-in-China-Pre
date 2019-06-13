@@ -157,9 +157,8 @@ Saving cards:
 
 
 
-
-#### To conclude:
 -----
+#### To conclude:
 - massive urban population
 - a large, cheap labor force
 - relatively lax regulation on bike parking 
