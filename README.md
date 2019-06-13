@@ -123,7 +123,7 @@ Saving cards:
 || station, walk to
 
 
-
+-----
 
 ### 2. why they can't crack other countries
 <img src="bike_sharing2.jpg" width="50%" height="50%">
