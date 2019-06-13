@@ -134,7 +134,10 @@ Saving cards:
 
 
 #### [1] Accessibility and convenience requires two things:
+
 <img src="picture3.png" width="50%" height="50%">
+
+
 - a huge fleet of bikes
 - a huge workforce to spread the bikes to the most needed areas
 
