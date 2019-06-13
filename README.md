@@ -92,12 +92,12 @@ QR code works as identity badge
 
 ## Mobile Payment _ A Success of Third-party Payment
 
-1. Thrid-party Platform
-   Alipay
-   Credit problem
+Thrid-party Platform
+1. Alipay
+2. Credit problem
 
 
-characteristics of Mobile Payment Platform in China: 
+Characteristics of Mobile Payment Platform in China: 
 1. Savings card is the mainstream
 2. Banking system
 
