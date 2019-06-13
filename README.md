@@ -3,9 +3,7 @@
 Yang Jia     :girl:   
 Zou Peng     :boy:
 
-## Application :satellite:
 
-<https://www.youtube.com/watch?v=gysKE3POUv0>
 
 ### Mobile Payment :yen:
 
@@ -70,6 +68,9 @@ Check authenticity and gain more information about foods and drinks
 
 QR code works as identity badge
 
+## Application :satellite:
+
+<https://www.youtube.com/watch?v=gysKE3POUv0>
 -----
 -----
 
@@ -100,7 +101,7 @@ characteristics of Mobile Payment Platform in China:
 2. Instant transfer.
 
 Saving cards:
-1. No treshold, open accouts freely
+1. No threshold, open accouts freely
 2. Get card instantly
 <img src="Unionpay.png" width="50%" height="50%">
 
