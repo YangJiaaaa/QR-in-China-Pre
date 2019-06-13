@@ -141,6 +141,7 @@ Saving cards:
 
 ##### [2]Profitable for their companies:
 1.dense urban areas & heavy ridership to stay profitavle
+
 2.huge workforce to spread the bikes to the most needed areas
 
 
