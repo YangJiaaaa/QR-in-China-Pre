@@ -114,45 +114,45 @@ Saving cards:
 
 
 
-#### 1.why is sharing bikes so popular in China?
+### 1.why is sharing bikes so popular in China?
 <img src="bike_sharing2.jpg" width="50%" height="50%">
 
-1.dockless, it can be parked anywhere. 
+- dockless, it can be parked anywhere. 
 || fixed docking stations, only park in specific location very inconvenient
-2.bike location is showed in the app, actually, not necessary
+- bike location is showed in the app, actually, not necessary
 || station, walk to
 
 
 
 
-#### 2. why they can't crack other countries
+### 2. why they can't crack other countries
 <img src="bike_sharing2.jpg" width="50%" height="50%">
 [Bike-sharing companies like Mobike and Ofo getting lost in translation]
 
 
 
 
-##### [1]essibility and convenience requires two things:
-1. a huge fleet of bikes
-2. a huge workforce to spread the bikes to the most needed areas
+#### [1]Essibility and convenience requires two things:
+- a huge fleet of bikes
+- a huge workforce to spread the bikes to the most needed areas
 
 
 
 
-##### [2]Profitable for their companies:
-1.dense urban areas & heavy ridership to stay profitavle
+#### [2]Profitable for their companies:
+- dense urban areas & heavy ridership to stay profitavle
 
-2.huge workforce to spread the bikes to the most needed areas
-
-
-
-
-##### [3]Relatively lax regulation
+- huge workforce to spread the bikes to the most needed areas
 
 
 
 
-##### [4]Support from the government
+#### [3]Relatively lax regulation
+
+
+
+
+#### [4]Support from the government
 
 
 
