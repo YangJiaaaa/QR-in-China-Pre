@@ -115,7 +115,7 @@ Saving cards:
 
 
 ### 1.why is sharing bikes so popular in China?
-<img src="bike_sharing2.jpg" width="50%" height="50%">
+<img src="picture2.png" width="50%" height="50%">
 
 - dockless, it can be parked anywhere. 
 || fixed docking stations, only park in specific location very inconvenient
@@ -132,7 +132,8 @@ Saving cards:
 
 
 
-#### [1] Essibility and convenience requires two things:
+#### [1] Accessibility and convenience requires two things:
+<img src="picture3.png" width="50%" height="50%">
 - a huge fleet of bikes
 - a huge workforce to spread the bikes to the most needed areas
 
