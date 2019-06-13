@@ -120,7 +120,7 @@ Banking system:
 
 
 ### 1.why is sharing bikes so popular in China?
-<img src="picture2.png" width="80%" height="80%">
+<img src="picture2.png" width="90%" height="90%">
 
 
 - dockless, it can be parked anywhere. 
