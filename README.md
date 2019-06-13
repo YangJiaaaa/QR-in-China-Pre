@@ -109,22 +109,45 @@ Saving cards:
 -----
 
 ## Sharing Bikes _ A New Utilizaiton Mode of Public Resources 
-<img src="Bike-sharing.jpg" width="50%" height="50%">
+<img src="Bike-sharing.jpg" width="50%" height="50%">  
+[Bike-sharing is booming in China]
+
+
+
+#### 1.why is sharing bikes so popular in China?
 <img src="bike_sharing2.jpg" width="50%" height="50%">
 
-#### Reason:
-1.  dense urban areas & heavy ridership to stay profitable
-2.  huge workforce to spread the bikes to the most needed areas
+
+1.dockless, it can be parked anywhere. 
+|| fixed docking stations, only park in specific location very inconvenient
+2.bike location is showed in the app, actually, not necessary
+|| station, walk to
 
 
-#### Accessibility and convenience requires two things:
-1. huge fleet of bikes
-2. huge workforce to spread the bikes to the most needed areas
 
-#### China:
-1. massive urban population
-2. large, cheap labor force
-3. support from gov
+#### 2. why they can't crack other countries
+<img src="bike_sharing2.jpg" width="50%" height="50%">
+[Bike-sharing companies like Mobike and Ofo getting lost in translation]
+
+
+##### [1]essibility and convenience requires two things:
+1. a huge fleet of bikes
+2. a huge workforce to spread the bikes to the most needed areas
+
+##### rofitable for their companies:
+1.dense urban areas & heavy ridership to stay profitavle
+2.huge workforce to spread the bikes to the most needed areas
+
+##### Relatively lax regulation
+
+##### Support from the government
+
+#### To conclude:
+China:
+- massive urban population
+- a large, cheap labor force
+- relatively lax regulation on bike parking 
+- support from gov
 
 -----
 -----
