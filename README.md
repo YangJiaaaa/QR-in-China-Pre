@@ -68,7 +68,7 @@ Check authenticity and gain more information about foods and drinks
 
 QR code works as identity badge
 
-## Application :satellite:
+## Experience the cashless life in China
 
 <https://www.youtube.com/watch?v=gysKE3POUv0>
 -----
@@ -120,7 +120,7 @@ Banking system:
 
 
 ### 1.why is sharing bikes so popular in China?
-<img src="picture2.png" width="50%" height="50%">
+<img src="picture2.png" width="80%" height="80%">
 
 
 - dockless, it can be parked anywhere. 
