@@ -169,11 +169,17 @@ Banking system:
 
 -----
 #### To conclude:
+'China:'
 - massive urban population
 - a large, cheap labor force
 - relatively lax regulation on bike parking 
 - support from gov
 
+'Other countries:'
+- the strict regulations
+- economy scale
+- intolerant to sidewalks littered with vehicles
+they stop the prevelence of sharing bike
 -----
 -----
 
