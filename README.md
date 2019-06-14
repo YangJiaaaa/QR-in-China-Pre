@@ -98,16 +98,18 @@ Thrid-party Platform
 
 
 Characteristics of Mobile Payment Platform in China: 
-1. Savings card is the mainstream
-2. Banking system
+1. Banking system
+2. Savings card is the mainstream
+
+Banking system:
+1. Country-owned main banks
+2. Money can flow freely without extra fee
 
 Saving cards:
 1. No threshold, open accouts freely
 2. Get card instantly
 
-Banking system:
-1. Country-owned main banks
-2. Money can flow freely without extra fee
+
 
 
 -----
