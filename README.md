@@ -179,7 +179,9 @@ Banking system:
 - the strict regulations
 - economy scale
 - intolerant to sidewalks littered with vehicles
+
 they stop the prevelence of sharing bike
+
 -----
 -----
 
